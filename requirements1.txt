@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+reportlab
+sentence-transformers
+chromadb
+bleak
+cryptography
+numpy
+requests
+beautifulsoup4
+fastapi
+uvicorn
